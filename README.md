@@ -2,7 +2,7 @@
 
 Explore my projects, from university tasks to personal experiments. Learn from code or contribute via pull requests. Happy coding!
 
-```mermaid
+'''mermaid
 graph TD
     A[Personal-Portfolio] --> B(Personal_Projects)
     B --> C[DSTA BrainHack]
@@ -43,7 +43,7 @@ graph TD
 
 - [Personal Projects](#personal-projects)
   - [DSTA BrainHack](#dsta-brainhack)
-  - [NUS-NGIS Innovation Challenge](#nus-ngis-innovation-challenge)
+  - [NUS-NGIS Innovation Challenge](#nus-ncis-innovation-challenge)
 - [University Modules](#university-modules)
   - [Year 1](#year-1)
     - [Trimester 1](#trimester-1)
@@ -61,9 +61,9 @@ graph TD
 
 [Description of the DSTA BrainHack project]
 
-### NUS-NGIS Innovation Challenge
+### NUS-NCIS Innovation Challenge
 
-[Description of the NUS-NGIS Innovation Challenge project]
+[Description of the NUS-NCIS Innovation Challenge project]
 
 ## University Modules
 
